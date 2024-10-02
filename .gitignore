@@ -1,0 +1,8 @@
+#EXCLUIR TODOS LOS ARCHIVOS JPG Y JPEG
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+
+#EXCEPTO ESTE ARCHIVO
+!logo.jpg
